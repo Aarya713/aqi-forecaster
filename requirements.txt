@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+tensorflow
+joblib
+requests
+openmeteo-requests
